@@ -20,7 +20,8 @@ Start by creating a new expo project, copy the provided components, and then sta
     * `GET /courses`
     * `GET /courses/:course_id`
     * `POST /courses/:course_id/reviews`
-    
+
+## Please refer to icons at: https://oblador.github.io/react-native-vector-icons/
 ## Please find screenshots for the finished application:  
 
 <img src="./screenshots/homepage.png" width="35%" /><img src="./screenshots/live-search.png" width="35%" />  
